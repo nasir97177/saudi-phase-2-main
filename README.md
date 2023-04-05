@@ -29,6 +29,15 @@ The purpose of this App is to enable ERPNext user to follow the steps prescribed
    a- Recieve Compliance CSID from Zatca through API 
    b- Recieve Production CSID from Zatca through API 
    c- API for reporting and Clearance.
+#### 2. Installation.
+
+  ```sh
+  bench get-app https://github.com/nasir97177/ava_rebate.git
+  ```
+
+  ```sh
+  bench --site <site_name> install-app ava_rebate
+  ```
+  #### License
    
-   Some features are still under development. We will keep updating this document.
    
