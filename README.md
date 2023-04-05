@@ -32,11 +32,11 @@ The purpose of this App is to enable ERPNext user to follow the steps prescribed
 #### 2. Installation.
 
   ```sh
-  bench get-app https://github.com/nasir97177/ava_rebate.git
+  bench get-app https://github.com/nasir97177/saudi_einvoice
   ```
 
   ```sh
-  bench --site <site_name> install-app ava_rebate
+  bench --site <site_name> install-app saudi_einvoice
   ```
   #### License
    
