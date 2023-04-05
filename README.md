@@ -30,5 +30,5 @@ The purpose of this App is to enable ERPNext user to follow the steps prescribed
    b- Recieve Production CSID from Zatca through API 
    c- API for reporting and Clearance.
    
-   Some features are still under development. We will keep updating this document. For any suggestions and support please contact support@ERPGulf.com
-   we wll also update the development on on ERPGulf website. 
+   Some features are still under development. We will keep updating this document.
+   
